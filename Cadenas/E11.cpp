@@ -6,8 +6,11 @@
 using namespace std;
 
 int main() {
+	char a[] = "hola";
 
+	strupr(a);
 
+	cout<<a<<endl;
 
 	return 0;
 }
